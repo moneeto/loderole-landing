@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Frassi ERP mockup">
+  <rect width="960" height="600" fill="#F4F1EC"/>
+  <rect width="200" height="600" fill="#141414"/>
+  <text x="28" y="42" fill="#F4F1EC" font-family="Georgia, serif" font-size="20">Frassi ERP</text>
+  <text x="28" y="110" fill="#A3A3A3" font-family="sans-serif" font-size="13">Reservations</text>
+  <text x="28" y="142" fill="#F4F1EC" font-family="sans-serif" font-size="13">Aircraft</text>
+  <text x="28" y="174" fill="#A3A3A3" font-family="sans-serif" font-size="13">Pilots</text>
+  <text x="28" y="206" fill="#A3A3A3" font-family="sans-serif" font-size="13">Hours</text>
+  <text x="28" y="238" fill="#A3A3A3" font-family="sans-serif" font-size="13">Gallery</text>
+  <text x="28" y="270" fill="#A3A3A3" font-family="sans-serif" font-size="13">Maintenance</text>
+  <rect x="232" y="36" width="696" height="48" fill="#fff" stroke="#E4DFD6"/>
+  <text x="252" y="66" fill="#5E5A54" font-family="sans-serif" font-size="14">Todays reservations</text>
+  <rect x="232" y="108" width="216" height="120" fill="#fff" stroke="#E4DFD6"/>
+  <text x="252" y="148" fill="#5B21E6" font-family="Georgia, serif" font-size="36">12</text>
+  <text x="252" y="178" fill="#5E5A54" font-family="sans-serif" font-size="13">Open bookings</text>
+  <rect x="464" y="108" width="216" height="120" fill="#fff" stroke="#E4DFD6"/>
+  <text x="484" y="148" fill="#141414" font-family="Georgia, serif" font-size="36">4</text>
+  <text x="484" y="178" fill="#5E5A54" font-family="sans-serif" font-size="13">Aircraft in service</text>
+  <rect x="696" y="108" width="232" height="120" fill="#fff" stroke="#E4DFD6"/>
+  <text x="716" y="148" fill="#141414" font-family="Georgia, serif" font-size="36">Stripe</text>
+  <text x="716" y="178" fill="#5E5A54" font-family="sans-serif" font-size="13">Paid from Tours</text>
+  <rect x="232" y="252" width="696" height="300" fill="#fff" stroke="#E4DFD6"/>
+  <rect x="252" y="280" width="656" height="36" fill="#F4F1EC"/>
+  <rect x="252" y="332" width="656" height="36" fill="#F4F1EC"/>
+  <rect x="252" y="384" width="656" height="36" fill="#F4F1EC"/>
+  <rect x="252" y="436" width="656" height="36" fill="#F4F1EC"/>
+</svg>

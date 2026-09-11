@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Loderole — Custom software for aviation and beyond",
+    "description": "Loderole is an engineering team with 5+ years building custom systems — from process discovery to production and long-term maintenance. Reservations, ERPs, payments, and high-impact sites.",
+    "ogTitle": "Loderole — Custom software for aviation and beyond",
+    "ogDescription": "Engineering from discovery to production. Reservations, ERPs, Stripe, and the public sites that sell the work."
+  },
+  "nav": {
+    "solutions": "Solutions",
+    "projects": "Work",
+    "planey": "Planey",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Custom software · Aviation and every other operation that cannot stall",
+    "wordmark": "Loderole",
+    "headline": "We build the systems your operation actually runs on.",
+    "sub": "An engineering team with more than five years shipping made-to-measure software — from the first process interview to production, and the maintenance that follows.",
+    "cta": "Get in touch",
+    "ctaSecondary": "See the work"
+  },
+  "clients": {
+    "kicker": "Clients",
+    "title": "Operators who already run on what we shipped."
+  },
+  "solutions": {
+    "kicker": "01 — What we do",
+    "title": "Capabilities we put into production.",
+    "items": [
+      {
+        "title": "Custom software",
+        "body": "The system your operation needs when packaged tools fall short. Web, internal platforms, and integrations — the code stays yours."
+      },
+      {
+        "title": "Reservations and ERP",
+        "body": "Booking engines wired to the back office: fleet, people, calendars, add-ons, and the day-to-day of an aviation operator."
+      },
+      {
+        "title": "Payment gateways",
+        "body": "Checkout that actually collects. Stripe and the rest of the stack, connected to reservations instead of living in a spreadsheet."
+      },
+      {
+        "title": "High-impact landing pages",
+        "body": "Institutional and commercial sites that sell the work — not templates. Built to convert, then handed over with the rest of the product."
+      },
+      {
+        "title": "Evolution and support",
+        "body": "We stay after go-live. Fixes, new modules, and the unglamorous work of keeping a production system honest."
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "02 — Selected work",
+    "title": "Cases we can point to.",
+    "visit": "Visit site",
+    "industryLabel": "Industry",
+    "items": [
+      {
+        "id": "tours",
+        "name": "Frassi Tours",
+        "client": "Frassi Aviation",
+        "industry": "Aviation tourism",
+        "description": "Public tour site with an online reservation engine. Guests pick the experience; the operator sees it in the back office.",
+        "highlights": [
+          "Tour sales landing with live availability",
+          "Stripe payment gateway on checkout",
+          "Reservations flow into the ERP"
+        ],
+        "imageAlt": "Frassi Tours public website"
+      },
+      {
+        "id": "erp",
+        "name": "Frassi ERP / Backoffice",
+        "client": "Frassi Aviation",
+        "industry": "Aviation operations",
+        "description": "Internal reservations and ERP for the bookings that land from Frassi Tours. One place to run the operation.",
+        "highlights": [
+          "End-to-end reservation management from the tours site",
+          "Aircraft, pilots, available hours, experiences and add-ons",
+          "Reviews, galleries, public CMS, and maintenance"
+        ],
+        "imageAlt": "Frassi backoffice and ERP"
+      },
+      {
+        "id": "aviation",
+        "name": "Frassi Aviation",
+        "client": "Frassi Aviation",
+        "industry": "MRO / aviation services",
+        "description": "Institutional landing commissioned with the tours site and the ERP — same discovery, same hand-off.",
+        "highlights": [
+          "Service inquiry and contact wired to operations",
+          "Built alongside the reservation and ERP stack",
+          "Same discovery-to-maintenance delivery as the rest of Frassi"
+        ],
+        "imageAlt": "Frassi Aviation institutional website"
+      },
+      {
+        "id": "arg",
+        "name": "ARG Aircraft",
+        "client": "ARG Aircraft Maintenance Services",
+        "industry": "Aircraft maintenance",
+        "description": "Landing for another aviation operator. The page did commercial work: eight maintenance jobs sold through it.",
+        "highlights": [
+          "Eight maintenance jobs sold through the site",
+          "Service inquiry flow for MRO work",
+          "A public face that converts instead of a brochure"
+        ],
+        "imageAlt": "ARG Aircraft website"
+      }
+    ]
+  },
+  "planey": {
+    "kicker": "03 — Product",
+    "badge": "Coming soon",
+    "name": "Planey",
+    "title": "The Frassi ERP, packaged as a service.",
+    "body": "Planey is the made-to-measure ERP we built for Frassi — canned and made configurable per client. Same operational spine (reservations, fleet, people, calendars), sold as a service instead of a one-off build.",
+    "cta": "Tell me when it ships"
+  },
+  "about": {
+    "kicker": "04 — About",
+    "title": "Engineers who stay for the unglamorous part.",
+    "body": "We are an engineering team with more than five years building custom systems across industries — not only aviation. Discovery of the real process, design, implementation, and evolutionary maintenance. That is the method we used on every Frassi system: tours, ERP, and the institutional site.",
+    "stepsLabel": "How we work",
+    "steps": [
+      { "title": "Discovery", "body": "We sit with the operation until the process is visible." },
+      { "title": "Design", "body": "Scope, architecture, and a sequence that can ship." },
+      { "title": "Implementation", "body": "Production software, integrations, and the public surface." },
+      { "title": "Maintenance", "body": "Support, new modules, and the years after go-live." }
+    ],
+    "stats": [
+      { "value": 5, "suffix": "+", "label": "Years building custom systems" },
+      { "value": 4, "suffix": "", "label": "Aviation products in production" },
+      { "value": 8, "suffix": "", "label": "Maintenance jobs sold via ARG Aircraft" },
+      { "value": 1, "suffix": "", "label": "Method, discovery to maintenance" }
+    ]
+  },
+  "faq": {
+    "kicker": "05 — FAQ",
+    "title": "Direct answers.",
+    "items": [
+      {
+        "q": "Do you take over systems already in progress?",
+        "a": "Yes. We audit what exists, say what can be kept, replaced, or rewritten, and pick up without stopping the operation. That is how we work when a previous vendor is gone."
+      },
+      {
+        "q": "How soon can a project start?",
+        "a": "Usually one to three weeks after signing. We begin with a short discovery that sets scope, milestones, and measurable deliverables before the team scales."
+      },
+      {
+        "q": "Do you work outside Argentina?",
+        "a": "Yes. We deliver for operators in the Americas — aviation clients included. Billing follows the engagement."
+      },
+      {
+        "q": "How do you contract?",
+        "a": "Fixed price when the work is known, a monthly retainer if the system will keep evolving, or time and materials when we still need to investigate. Discovery first, then a concrete proposal."
+      },
+      {
+        "q": "Who owns the code?",
+        "a": "The client. We can sign an NDA before any technical conversation. Contracts assign intellectual property of deliverables, documentation, and repositories to you."
+      },
+      {
+        "q": "Can you work white-label?",
+        "a": "Yes. Behind your brand, inside your team, or as an external vendor. We do not compete for the client or the mark."
+      },
+      {
+        "q": "What happens after launch?",
+        "a": "Maintenance, evolutionary support, and a response SLA. Most of the systems we ship stay with us for years — Frassi included."
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "06 — Contact",
+    "title": "Tell us what has to work.",
+    "body": "A short note is enough. We read every message.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "phone": "Phone",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@company.com",
+    "companyPlaceholder": "Optional",
+    "phonePlaceholder": "Optional",
+    "messagePlaceholder": "What needs to exist that does not exist today?",
+    "optional": "optional",
+    "submit": "Send message",
+    "sending": "Sending…",
+    "emailLabel": "Email",
+    "whatsappLabel": "WhatsApp",
+    "locationLabel": "Where we work",
+    "location": "Argentina · United States",
+    "success": "Message sent. We will get back to you.",
+    "error": "Could not send. Try again or write us by email.",
+    "validation": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email.",
+      "message": "Please write a short message."
+    }
+  },
+  "footer": {
+    "blurb": "Custom software from discovery to maintenance.",
+    "nav": "Navigate",
+    "contact": "Contact",
+    "social": "Follow",
+    "rights": "All rights reserved."
+  },
+  "whatsapp": {
+    "label": "Chat on WhatsApp",
+    "message": "Hello Loderole — I would like to talk about a project."
+  },
+  "lang": {
+    "en": "EN",
+    "es": "ES",
+    "switchTo": "Language"
+  }
+}

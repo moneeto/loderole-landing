@@ -1,0 +1,20 @@
+:root {
+  --color-primary: #5b21e6;
+  --color-primary-hover: #4c1bd1;
+  --color-secondary: #141414;
+  --color-accent: #5b21e6;
+  --color-bg: #f4f1ec;
+  --color-bg-alt: #ffffff;
+  --color-bg-inverse: #0c0c0c;
+  --color-text: #141414;
+  --color-text-muted: #5e5a54;
+  --color-text-inverse: #f4f1ec;
+  --color-border: #e4dfd6;
+  --color-whatsapp: #25d366;
+  --font-heading: "Instrument Serif", "Times New Roman", serif;
+  --font-body: "Figtree", "Helvetica Neue", sans-serif;
+  --font-brand: "Gloock", serif;
+  --header-h: 72px;
+  --radius: 2px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
