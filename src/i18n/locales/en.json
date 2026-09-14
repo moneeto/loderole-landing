@@ -57,6 +57,8 @@
     "kicker": "02 — Selected work",
     "title": "Cases we can point to.",
     "visit": "Visit site",
+    "prev": "Previous screenshot",
+    "next": "Next screenshot",
     "industryLabel": "Industry",
     "items": [
       {
@@ -117,8 +119,8 @@
     "kicker": "03 — Product",
     "badge": "Coming soon",
     "name": "Planey",
-    "title": "The Frassi ERP, packaged as a service.",
-    "body": "Planey is the made-to-measure ERP we built for Frassi — canned and made configurable per client. Same operational spine (reservations, fleet, people, calendars), sold as a service instead of a one-off build.",
+    "title": "Reservations, schedules, and fleet — in one place.",
+    "body": "Planey is our platform for managing reservations, agendas, calendars, fleet, and staff. Each client configures it to their operation, with optional modules built to fit — landing-page setup, for example.",
     "cta": "Tell me when it ships"
   },
   "about": {

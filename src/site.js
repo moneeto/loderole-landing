@@ -16,22 +16,39 @@ export const site = {
     {
       id: 'tours',
       url: 'https://www.frassitours.com/',
-      image: '/mockups/tours.svg',
+      images: [
+        '/loderole-images/tours-1.png',
+        '/loderole-images/tours-2.png',
+        '/loderole-images/tours-3.png',
+        '/loderole-images/tours-4.png',
+      ],
     },
     {
       id: 'erp',
       url: 'https://backoffice.frassiaviation.com/',
-      image: '/mockups/erp.svg',
+      images: [
+        '/loderole-images/frassibackoffice-1.png',
+        '/loderole-images/frassibackoffice-2.png',
+        '/loderole-images/frassibackoffice-3.png',
+      ],
     },
     {
       id: 'aviation',
       url: 'https://frassiaviation.com/',
-      image: '/mockups/aviation.svg',
+      images: [
+        '/loderole-images/mantenimiento-1.png',
+        '/loderole-images/mantenimiento-2.png',
+        '/loderole-images/mantenimiento-3.png',
+      ],
     },
     {
       id: 'arg',
       url: 'http://argaircraft.com/',
-      image: '/mockups/arg.svg',
+      images: [
+        '/loderole-images/argaircraft-1.png',
+        '/loderole-images/argaircraft-2.png',
+        '/loderole-images/argaircraft-3.png',
+      ],
     },
   ],
 };

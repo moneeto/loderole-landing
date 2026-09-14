@@ -120,7 +120,7 @@ h3,
   margin: 0;
   font-size: clamp(2rem, 4.4vw, 3.4rem);
   line-height: 1.12;
-  max-width: 16ch;
+  max-width: 22ch;
 }
 
 .btn {
@@ -505,6 +505,60 @@ h3,
   width: 100%;
   aspect-ratio: 16 / 10;
   object-fit: cover;
+  object-position: top center;
+  flex: none;
+}
+
+.carousel {
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel__track {
+  display: flex;
+  transition: transform 0.55s var(--ease);
+  will-change: transform;
+}
+
+.carousel__nav {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--color-bg-alt) 88%, transparent);
+  color: var(--color-text);
+  box-shadow: 0 8px 20px color-mix(in srgb, var(--color-text) 12%, transparent);
+  transform: translateY(-50%);
+}
+
+.carousel__nav:hover {
+  background: var(--color-bg-alt);
+}
+
+.carousel__nav--prev {
+  left: 12px;
+}
+
+.carousel__nav--next {
+  right: 12px;
+}
+
+.carousel__count {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  margin: 0;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--color-bg-inverse) 62%, transparent);
+  color: var(--color-text-inverse);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
 }
 
 .planey {
@@ -546,7 +600,7 @@ h3,
 .planey__title {
   margin: 12px 0 16px;
   font-size: clamp(1.6rem, 3vw, 2.2rem);
-  max-width: 18ch;
+  max-width: 22ch;
 }
 
 .planey p {
@@ -942,7 +996,8 @@ h3,
 
   .marquee__track,
   .hero__grid,
-  .faq__panel {
+  .faq__panel,
+  .carousel__track {
     animation: none;
     transition: none;
   }

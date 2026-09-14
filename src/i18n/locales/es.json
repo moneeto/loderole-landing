@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Loderole — Software a medida para aviación y otros rubros",
-    "description": "Loderole es un equipo de ingeniería con más de 5 años construyendo sistemas a medida — del relevamiento de procesos a la producción y el mantenimiento. Reservas, ERP, pagos y sitios de alto impacto.",
-    "ogTitle": "Loderole — Software a medida para aviación y otros rubros",
-    "ogDescription": "Ingeniería del relevamiento a producción. Reservas, ERP, Stripe y las páginas que venden el trabajo."
+    "title": "Loderole — Software Factory",
+    "description": "Loderole es una empresa de software e intelgencia artificial con más de 5 años construyendo sistemas a medida, desde el relevamiento y entendimiento de tus procesos a la puesta en marcha y seguimiento de tu proyecto terminado. Reservas, ERP, pagos y plataformas de alto impacto.",
+    "ogTitle": "Loderole — Software Factory",
+    "ogDescription": ""
   },
   "nav": {
     "solutions": "Soluciones",
@@ -16,59 +16,57 @@
     "closeMenu": "Cerrar menú"
   },
   "hero": {
-    "eyebrow": "Software a medida · Aviación y cualquier operación que no puede parar",
+    "eyebrow": "Software & AI Factory",
     "wordmark": "Loderole",
-    "headline": "Construimos los sistemas con los que la operación realmente corre.",
-    "sub": "Un equipo de ingeniería con más de cinco años desarrollando software a medida — del primer relevamiento de procesos a la implementación, y el mantenimiento que sigue.",
+    "headline": "",
+    "sub": "Un equipo de ingeniería con más de 5 años construyendo sistemas a medida, desde el relevamiento y entendimiento de tus procesos a la puesta en marcha y seguimiento de tu proyecto terminado. Reservas, ERP, pagos y plataformas de alto impacto.",
     "cta": "Contactanos",
     "ctaSecondary": "Ver el trabajo"
   },
   "clients": {
     "kicker": "Clientes",
-    "title": "Operadores que ya corren sobre lo que entregamos."
+    "title": ""
   },
   "solutions": {
     "kicker": "01 — Qué hacemos",
-    "title": "Capacidades que ponemos en producción.",
+    "title": "A lo que nos dedicamos",
     "items": [
       {
         "title": "Desarrollo de software a medida",
-        "body": "El sistema que tu operación necesita cuando lo enlatado no alcanza. Web, plataformas internas e integraciones — el código queda tuyo."
+        "body": "Hacemos plataformas que conjuntan los procesos de tu negocio en función de tus necesidades; nos hacemos cargo de todo y te lo dejamos funcionando."
       },
       {
-        "title": "Sistemas de reservas y ERP",
-        "body": "Motores de reserva conectados al backoffice: flota, personas, calendarios, addons y el día a día de un operador aeronáutico."
+        "title": "ERP - Planey",
+        "body": "Digitalizá tu hangar y tu negocio a través de nuestra plataforma de reservas y gestión aeronáutica para controlar, analizar, recibir información y tomar decisiones de tu flota en tiempo real."
       },
       {
-        "title": "Pasarelas de pago",
-        "body": "Checkout que cobra de verdad. Stripe y el resto del stack, conectados a las reservas en lugar de vivir en una planilla."
+        "title": "Pagos",
+        "body": "Integraciones con pasarelas de pago en las plataformas que desees construir, o en aquellas ya existentes."
       },
       {
-        "title": "Landing pages de alto impacto",
-        "body": "Sitios institucionales y comerciales que venden el trabajo — no plantillas. Hechos para convertir, y entregados con el resto del producto."
-      },
-      {
-        "title": "Mantenimiento evolutivo y soporte",
-        "body": "Nos quedamos después del go-live. Correcciones, módulos nuevos y el trabajo poco glamoroso de sostener un sistema en producción."
+        "title": "Páginas de presentación",
+        "body": "Sitios institucionales y comerciales que venden el trabajo de tu negocio. Tratamos tu web como si tuvieramos que vender nosotros a través de ella, garantizandote la calidad que buscas."
       }
     ]
   },
   "projects": {
     "kicker": "02 — Casos de éxito",
-    "title": "Trabajo al que podemos señalar.",
+    "title": "Proyectos ya en producción",
     "visit": "Visitar sitio",
-    "industryLabel": "Rubro",
+    "prev": "Captura anterior",
+    "next": "Captura siguiente",
+    "industryLabel": "",
     "items": [
       {
         "id": "tours",
         "name": "Frassi Tours",
         "client": "Frassi Aviation",
-        "industry": "Turismo aeronáutico",
-        "description": "Sitio de tours con motor de reservas online. El huésped elige la experiencia; el operador la ve en el backoffice.",
+        "industry": "",
+        "description": "Sitio y plataforma de reserva de tours con motor de reservas online.",
         "highlights": [
-          "Landing de venta de tours con disponibilidad en vivo",
-          "Pasarela de pago Stripe en el checkout",
-          "Las reservas entran al ERP"
+          "Disponibilidad de turnos y reservas en vivo",
+          "Integración de pagos con Stripe Checkout",
+          "Servicios de seguridad y prevención anti-robots"
         ],
         "imageAlt": "Sitio público de Frassi Tours"
       },
@@ -76,8 +74,8 @@
         "id": "erp",
         "name": "Frassi ERP / Backoffice",
         "client": "Frassi Aviation",
-        "industry": "Operación aeronáutica",
-        "description": "ERP interno de reservas para lo que entra desde Frassi Tours. Un solo lugar para correr la operación.",
+        "industry": "",
+        "description": "Backoffice para la gestión de reservas que se realizan a través de Frassi Tours.",
         "highlights": [
           "Gestión integral de reservas generadas desde Tours",
           "Aeronaves, pilotos, horas disponibles, experiencias y addons",
@@ -89,12 +87,11 @@
         "id": "aviation",
         "name": "Frassi Aviation",
         "client": "Frassi Aviation",
-        "industry": "MRO / servicios de aviación",
+        "industry": "",
         "description": "Landing institucional pedida junto con Tours y el ERP — mismo relevamiento, misma entrega.",
         "highlights": [
           "Consultas de servicio y contacto conectados a operaciones",
-          "Desarrollada junto al stack de reservas y ERP",
-          "Misma metodología de relevamiento a mantenimiento que el resto de Frassi"
+          "hola"
         ],
         "imageAlt": "Sitio institucional de Frassi Aviation"
       },
@@ -102,23 +99,23 @@
         "id": "arg",
         "name": "ARG Aircraft",
         "client": "ARG Aircraft Maintenance Services",
-        "industry": "Mantenimiento de aeronaves",
+        "industry": "",
         "description": "Landing para otro operador del rubro. La página hizo trabajo comercial: vendió 8 trabajos de mantenimiento.",
         "highlights": [
-          "8 trabajos de mantenimiento vendidos a través de la página",
-          "Flujo de consulta para trabajo de MRO",
-          "Una cara pública que convierte, no un folleto"
+          "Diseño moderno con sección de imágenes para promocionar tu negocio",
+          "Flujo de contacto para que los mensajes te lleguen directamente al mail",
+          "+8 trabajos de mantenimiento vendidos a través de la página"
         ],
         "imageAlt": "Sitio de ARG Aircraft"
       }
     ]
   },
   "planey": {
-    "kicker": "03 — Producto",
+    "kicker": "03 — ERP",
     "badge": "En desarrollo",
     "name": "Planey",
-    "title": "El ERP de Frassi, enlatado como servicio.",
-    "body": "Planey es el ERP a medida que construimos para Frassi — empaquetado y configurable por cliente. La misma columna operativa (reservas, flota, personas, calendarios), vendida como servicio en lugar de un desarrollo único.",
+    "title": "Reservas, agenda y flota, en un solo lugar.",
+    "body": "Planey es nuestra plataforma para administrar reservas, agendas, calendarios, control de flota y personal. Cada cliente la configura a su operación, con opcionales a medida de la necesidad.",
     "cta": "Avisame cuando esté"
   },
   "about": {

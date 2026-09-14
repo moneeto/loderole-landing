@@ -1,6 +1,7 @@
 import { useI18n } from '../i18n/I18nProvider.jsx';
 import { site } from '../site.js';
 import { Reveal } from './Reveal.jsx';
+import { ProjectCarousel } from './ProjectCarousel.jsx';
 
 export function Projects() {
   const { t, dict } = useI18n();
@@ -34,14 +35,7 @@ export function Projects() {
                   </a>
                 </Reveal>
                 <Reveal delay={80}>
-                  <div className="browser">
-                    <div className="browser__bar" aria-hidden="true">
-                      <i />
-                      <i />
-                      <i />
-                    </div>
-                    <img src={meta?.image} alt={item.imageAlt} loading="lazy" />
-                  </div>
+                  <ProjectCarousel images={meta?.images} alt={item.imageAlt} />
                 </Reveal>
               </article>
             );

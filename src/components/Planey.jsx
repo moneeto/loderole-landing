@@ -15,9 +15,9 @@ export function Planey() {
         <Reveal delay={80}>
           <h2 className="planey__title">{t('planey.title')}</h2>
           <p>{t('planey.body')}</p>
-          <a className="btn btn--inverse" href="#contact">
+          {/* <a className="btn btn--inverse" href="#contact">
             {t('planey.cta')}
-          </a>
+          </a> */}
         </Reveal>
       </div>
     </section>
